@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p  aling="center">
 <img src=".github/preview.png" alt="Demonstrativo" width="100%" />
 </p >
